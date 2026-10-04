@@ -1,47 +1,20 @@
-# SC05 – University Timetable Optimization Engine
+# Data README
 
-## Step 1 – Beginner Project
+All Step 1 data is simulated educational data.
 
-A timetable coordinator needs a weekly timetable that places courses into rooms and time slots without faculty, room, or cohort clashes.
+## Files
+- `courses.csv`: course/cohort/faculty/session requirements.
+- `rooms.csv`: room capacity and room type.
+- `timeslots.csv`: available teaching slots.
 
-### M1 target
-Build a Genetic Algorithm timetable for a small test case and compare it with a simple baseline.
+## Units
+- weekly_sessions: number of sessions per week
+- duration_slots: number of timetable slots
+- capacity: number of students a room can hold
 
-### Step 1
-This version prepares the repository, input data, validation, test cases, baseline rules, and Product V1 sketch.
-
-## Team
-- Member 1: Repository + Testing/UI
-- Member 2: Data
-- Member 3: Baseline
-- Member 4: Testing/UI
-
-## How to run
-
-```bash
-python -m venv .venv
-```
-
-Windows PowerShell:
-```powershell
-.venv\Scripts\Activate.ps1
-```
-
-Install:
-```bash
-pip install -r requirements.txt
-```
-
-Run validation:
-```bash
-python src/validate_data.py
-```
-
-## Expected result
-
-```text
-STEP 1 DATA CHECK PASSED
-```
-
-The invalid test is stored separately and should produce a clear FAIL message when checked.
-
+## Assumptions
+- IDs are unique.
+- Room capacity is positive.
+- Room types are `classroom` or `lab`.
+- Ten teaching slots are available.
+- This data is not real university data.
