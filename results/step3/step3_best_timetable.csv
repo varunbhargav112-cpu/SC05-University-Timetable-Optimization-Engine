@@ -1,0 +1,9 @@
+session_id,course_id,cohort_id,faculty_id,required_room_type,students,room_id,timeslot
+C01_S1,C01,G1,F1,classroom,35,R01,5
+C01_S2,C01,G1,F1,classroom,35,R01,9
+C02_S1,C02,G1,F2,lab,30,R03,6
+C02_S2,C02,G1,F2,lab,30,R03,4
+C03_S1,C03,G2,F1,classroom,40,R02,0
+C04_S1,C04,G2,F3,classroom,45,R01,4
+C04_S2,C04,G2,F3,classroom,45,R01,3
+C05_S1,C05,G1,F3,lab,25,R03,1

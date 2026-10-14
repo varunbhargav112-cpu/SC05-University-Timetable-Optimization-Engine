@@ -1,0 +1,3 @@
+,total_penalty,room_clashes,faculty_clashes,cohort_clashes,capacity_violations,room_type_violations,feasible
+Random baseline (best of 5000),500,0,0,0,0,1,False
+Genetic Algorithm,0,0,0,0,0,0,True
