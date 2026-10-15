@@ -1,0 +1,4 @@
+room_id,capacity,room_type
+R01,60,classroom
+R02,40,classroom
+R03,35,lab

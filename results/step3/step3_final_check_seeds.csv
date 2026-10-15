@@ -1,0 +1,11 @@
+seed,total_penalty,room_clashes,faculty_clashes,cohort_clashes,capacity_violations,room_type_violations,feasible
+1,0,0,0,0,0,0,True
+7,0,0,0,0,0,0,True
+21,0,0,0,0,0,0,True
+99,0,0,0,0,0,0,True
+123,0,0,0,0,0,0,True
+2024,0,0,0,0,0,0,True
+31415,0,0,0,0,0,0,True
+777,0,0,0,0,0,0,True
+555,0,0,0,0,0,0,True
+10,0,0,0,0,0,0,True

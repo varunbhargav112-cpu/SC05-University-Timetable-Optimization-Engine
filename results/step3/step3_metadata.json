@@ -1,0 +1,6 @@
+{
+  "step": 3,
+  "method": "Genetic Algorithm timetable",
+  "generations": 100,
+  "final_best_fitness": 0.0
+}

@@ -1,0 +1,11 @@
+slot_id,day,time,preferred
+S01,Monday,09:00,yes
+S02,Monday,11:00,yes
+S03,Monday,14:00,no
+S04,Tuesday,09:00,yes
+S05,Tuesday,11:00,yes
+S06,Tuesday,14:00,no
+S07,Wednesday,09:00,yes
+S08,Wednesday,11:00,yes
+S09,Thursday,09:00,yes
+S10,Friday,14:00,no
