@@ -1,0 +1,14 @@
+{
+  "dataset": "sklearn wine",
+  "seed": 42,
+  "hidden_layers": [
+    32,
+    16
+  ],
+  "epochs_run": 278,
+  "classes": [
+    "class_0",
+    "class_1",
+    "class_2"
+  ]
+}
